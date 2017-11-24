@@ -1,0 +1,2 @@
+agency_id,agency_official_name,agency_zip_number,agency_address,agency_president_pos,agency_president_name
+4000020172014_1,金沢市,920-8577,石川県金沢市広坂1-1-1,,

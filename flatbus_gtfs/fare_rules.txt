@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+f1,flatbus1,z1,z1,
+f1,flatbus2,z1,z1,
+f1,flatbus3,z1,z1,
+f1,flatbus4,z1,z1,

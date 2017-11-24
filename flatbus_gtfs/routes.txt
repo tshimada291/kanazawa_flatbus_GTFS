@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,jp_parent_route_id
+flatbus1,4000020172014_1,,ふらっとバス　此花ルート,,3,,43447F,ffffff,
+flatbus2,4000020172014_1,,ふらっとバス　菊川ルート,,3,,713637,ffffff,
+flatbus3,4000020172014_1,,ふらっとバス　材木ルート,,3,,406739,ffffff,
+flatbus4,4000020172014_1,,ふらっとバス　長町ルート,,3,,856D30,ffffff,
