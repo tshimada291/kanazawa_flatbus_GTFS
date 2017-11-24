@@ -3,6 +3,7 @@
 石川県金沢市の公開するオープンデータを基に作成しています。
 
 feed url：https://tshimada291.github.io/kanazawa_flatbus_GTFS/flatbus_gtfs.zip
+（[google feedvalidator](https://developers.google.com/transit/tools?hl=ja) 検証済み）
 
 ## ライセンス
 基としたオープンデータと同じく，[CC BY](https://creativecommons.org/licenses/by/4.0/deed.ja) を適用します。
