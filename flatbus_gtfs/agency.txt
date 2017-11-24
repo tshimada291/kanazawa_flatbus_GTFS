@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-4000020172014_1,金沢市,http://www4.city.kanazawa.lg.jp/11310/taisaku/flatbus/,Asia/Tokyo,ja,,,
+4000020172014_1,金沢ふらっとバス,http://www4.city.kanazawa.lg.jp/11310/taisaku/flatbus/,Asia/Tokyo,ja,,,
