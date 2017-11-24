@@ -18,3 +18,5 @@ feed url：https://tshimada291.github.io/kanazawa_flatbus_GTFS/flatbus_gtfs.zip
 ## 参考
 * [GTFSとは（Google）](https://developers.google.com/transit/gtfs/?hl=ja)
 * [「標準的なバス情報フォーマット」（国土交通省）](http://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_tk_000067.html)
+* [「標準的なバス情報フォーマット」（GTFS準拠）作成検証ページ（Sujiya Systems）](http://www.sinjidai.com/sujiya/gtfs_help.html)
+* [ツール - GTFSフィードのテスト（feedvalidator）](https://developers.google.com/transit/tools?hl=ja)
