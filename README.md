@@ -13,6 +13,7 @@ feed url：https://tshimada291.github.io/kanazawa_flatbus_GTFS/flatbus_gtfs.zip
 （平成29年7月10日版データを使用）
 
 ### 更新情報
+* 2018.07.19 trips.txt修正（block_idの修正）
 * 2018.04.22 2018年度版に修正
 * 2017.11.24 作成・公開
 
