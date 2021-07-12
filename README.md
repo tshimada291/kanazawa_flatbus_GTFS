@@ -2,6 +2,14 @@
 金沢ふらっとバスの「標準的なバス情報フォーマット」データ（GTFS準拠）です。
 石川県金沢市の公開するオープンデータを基に作成しています。
 
+
+**(2021.07.05) 金沢市の公式サイトでGTFSオープンデータが公開されました。今後は公式サイトのデータをご利用ください。**
+
+**[金沢市オープンデータカタログ](https://www4.city.kanazawa.lg.jp/13021/opendata/catalog.html)**
+
+## feed url
+*（公式データの公開にともない、当ページでのデータの更新は終了します。当ページのGTFS-JPデータはサンプルとしてしばらく公開を続けます。）*
+
 feed url：https://tshimada291.github.io/kanazawa_flatbus_GTFS/flatbus_gtfs.zip
 （[google feedvalidator](https://developers.google.com/transit/tools?hl=ja) 検証済み）
 
